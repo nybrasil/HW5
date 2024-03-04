@@ -20,6 +20,8 @@ Copy code
 git clone <repository-url>
 2. Open the index.html file in your web browser.
 
+![alt text](assets/Screenshot%202024-03-03%20at%207.00.26 PM.png)
+
 # Usage
 . Upon opening the application, you will see time blocks representing each hour of the workday.
 . Each time block contains:
